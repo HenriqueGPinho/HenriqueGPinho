@@ -11,5 +11,6 @@
 -
 -
 - 📫 How to reach me: henrique.de.nf@gmail.com
+https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FHenriqueEuMsm
 -
 - ⚡ Fun fact: I'm a drummer. Search for Scream Weaver in Spotify and enjoy!
