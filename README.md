@@ -10,6 +10,6 @@
 - 
 -
 -
-- 📫 How to reach me: henrique.de.nf@gmail.com
+- 📫 Email: henrique.de.nf@gmail.com
 -
 - ⚡ Fun fact: I'm a drummer. Search for Scream Weaver in Spotify and enjoy!
