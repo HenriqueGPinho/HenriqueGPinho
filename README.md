@@ -23,5 +23,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects which involve HTML/CSS/JS or React;
 -
 - 📫 Email: henrique.de.nf@gmail.com
--
-- ⚡ Fun fact: I'm a drummer. Search for Scream Weaver on Spotify, Deezer, etc!
