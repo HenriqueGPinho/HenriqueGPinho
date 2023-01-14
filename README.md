@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 Currently working as Physics teacher;
-- 🌱 Interest in front-end development. Currently learning Bootstrap;
+- 🌱 Interest in front-end development: HTML | CSS | JavaScript | JQuery | Bootstrap | SASS | LESS | Gulp | Grunt | React;
 - 🤔 Any help or advice you could give me would be appreciated;
 - 👯 I’m looking to collaborate on projects which involve HTML/CSS/JS or React;
 -
