@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 🤔 Any help or advice you could give me would be appreciated;
 - 👯 I’m looking to collaborate on projects which involve HTML/CSS/JS/React;
 -
-- 📫 Email: henriquegravino@goutlook.com
+- 📫 Email: henriquegravino@outlook.com
